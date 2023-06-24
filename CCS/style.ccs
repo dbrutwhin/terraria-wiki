@@ -1,0 +1,6 @@
+header{background-color: green;height: 100px;}
+img{margin-left:400px;height: 85px;}
+body{background-image: url(https://i.pinimg.com/originals/ef/fe/84/effe8497b2b67994fb8b0d1a55aa67c5.png);}
+p {color:white;font-size: 18px;}
+ul li{color: white;font-size: 18px;}
+.imgt{height: 200px;}
